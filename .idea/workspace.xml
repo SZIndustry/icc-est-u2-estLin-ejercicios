@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="821a60ef-b2cb-4338-8d4c-10c3fdd7a504" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/LogicaClasificacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/LogicaClasificacion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/LogicaClasificacionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/LogicaClasificacionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/LogicaClasificacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/LogicaClasificacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.env" beforeDir="false" afterPath="$PROJECT_DIR$/student.env" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2yyY3F8CYwpdLH26w8ySeIo3XrY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ducker/Documentos/codes/icc-est-u2-estLin-ejercicios"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="821a60ef-b2cb-4338-8d4c-10c3fdd7a504" name="Changes" comment="" />
+      <created>1750808081033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750808081033</updated>
+    </task>
+    <servers />
+  </component>
+</project>
